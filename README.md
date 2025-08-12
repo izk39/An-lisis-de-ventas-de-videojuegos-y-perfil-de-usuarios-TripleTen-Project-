@@ -9,6 +9,18 @@ El objetivo es estudiar datos de ventas, plataformas, géneros y reseñas de vid
 - Establecer recomendaciones para campañas publicitarias para el año 2017
 - Poner en práctica limpieza de datos, análisis exploratorio y pruebas de hipótesis
 
+Este proyecto muestra gráficos como las ventas seg'un el género para cada región de los Estados Unidos.
+![Sales by Genre](readme_images/sales_by_genre.png)
+
+
+También muestra las ventas promedio por año en todo el mundo
+![Sales by Genre](readme_images/sales_per_year.png)
+
+Y las ventas totales según el género en todo el mundo.
+![Sales by Genre](readme_images/total_sales_average.png)
+
+Esto con el fin de comparar los diferentes patrones que puedan presentarse entre las principales regiones consumidoras y el promedio mundial.
+
 ## 📁 Estructura del proyecto
 
 - `games_analysis.ipynb`: notebook de Jupyter que contiene todo el análisis y los gráficos
